@@ -1,0 +1,10 @@
+Login
+Admin
+- email: admin@admin.com
+- password : password
+Alumni
+- email: user1@user.com
+- password : password
+Anggota aktif organisasi
+- email: a@user.com
+- password : password
